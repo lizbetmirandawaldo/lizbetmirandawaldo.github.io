@@ -1,4 +1,4 @@
-# lizbetmirandawaldo.github.io
+#Portafolio adaptable
 ## 
 Página que te ayuda a relajarte
 <ol>
